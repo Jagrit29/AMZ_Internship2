@@ -22,7 +22,7 @@
 
 h1
 {
-    font-size: 8vw;
+    font-size: 8.1vw;
     text-transform: uppercase;
     font-family: c;
     letter-spacing: 0.4vw;
@@ -33,9 +33,9 @@ h2
     font-size: 4vw;
     text-transform: uppercase;
     font-family:c;
-    letter-spacing: 0.2vw;
+    letter-spacing: 0.1vw;
     padding: 1px;
-    margin-top: -8px;
+    margin-top: -15px;
 }
 
 
@@ -44,14 +44,14 @@ h2
     color: black;
     margin: 30px;
     font-weight: 800;
-    font-size: 18px;
+    font-size: 2vw;
     font-family:sans-serif
     
 }
 
 .details
 {
-    font-size: 28px;
+    font-size: 2.5vw;
     font-family: c;
     color: grey;
     font-weight: 100;
@@ -63,7 +63,7 @@ h2
     color: black;
     margin: 30px;
     font-weight: 800;
-    font-size: 18px;
+    font-size: 2vw;
     font-family:sans-serif
     
 }
@@ -75,24 +75,24 @@ h2
 .txt
 {
     text-transform: uppercase;
-    font-size: 19px;
+    font-size: 1.8vw;
     font-family:;
     color: white;
     font-weight: 800;
     width: auto;
     letter-spacing: 1px;
-    padding-left: -2px;
+    padding-left: -1px;
     margin: auto;
     align-content: center;
     background: red;
-    padding: 4px;
+    padding: 8px;
     display: inline-block;
 }
 
 
 .lowerImage
 {
-    margin-top: 20px;
+    margin-top: px;
 }
 .new1
 {

@@ -2,4 +2,4 @@
 New repo
 
 ###
-Link[https://jagrit29.github.io/AMZ_Internship2/index.html]
+Link [https://jagrit29.github.io/AMZ_Internship2/index.html]
